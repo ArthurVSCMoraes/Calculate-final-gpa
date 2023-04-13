@@ -1,0 +1,15 @@
+/workspaces/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa
+/workspaces/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.deps.json
+/workspaces/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.runtimeconfig.json
+/workspaces/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.dll
+/workspaces/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.pdb
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.csproj.AssemblyReference.cache
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.AssemblyInfoInputs.cache
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.AssemblyInfo.cs
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.csproj.CoreCompileInputs.cache
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.dll
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/refint/calculate-final-gpa.dll
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.pdb
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.genruntimeconfig.cache
+/workspaces/calculate-final-gpa/obj/Debug/net7.0/ref/calculate-final-gpa.dll
